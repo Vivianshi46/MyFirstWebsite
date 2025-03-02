@@ -13,6 +13,24 @@ p {
     color: green;      /* 文字颜色 */
     font-size: 20px;   /* 文字大小 */
 }
+
+.personal-info {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.personal-info h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.personal-info p {
+    font-size: 18px;
+    color: #555;
+}
+
 nav {
     background-color: #333;
     padding: 10px;
@@ -46,20 +64,4 @@ button {
 
 button:hover {
     background-color: #45a049;
-}
-.personal-info {
-    background-color: #f2f2f2;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-}
-
-.personal-info h2 {
-    font-size: 24px;
-    color: #333;
-}
-
-.personal-info p {
-    font-size: 18px;
-    color: #555;
 }
