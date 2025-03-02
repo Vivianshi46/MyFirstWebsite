@@ -88,18 +88,17 @@ nav {
     padding: 20px;
 }
 
-.contact button {
+.contact-btn {
+    display: inline-block;
     background-color: #4CAF50;
     color: white;
-    border: none;
     padding: 10px 20px;
-    font-size: 18px;
+    text-decoration: none;
     border-radius: 10px;
-    cursor: pointer;
     transition: background-color 0.3s ease-in-out;
 }
 
-.contact button:hover {
+.contact-btn:hover {
     background-color: #45a049;
     transform: scale(1.1);
 }
