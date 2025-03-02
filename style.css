@@ -30,6 +30,30 @@ p {
     font-size: 18px;
     color: #555;
 }
+.education {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.education h2 {
+    font-size: 24px;
+    color: #4CAF50;
+}
+
+.education ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education li {
+    font-size: 18px;
+    color: #555;
+    padding: 5px 0;
+}
 
 nav {
     background-color: #333;
