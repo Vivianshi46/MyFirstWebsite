@@ -1,0 +1,15 @@
+body {
+    background-color: #f5f5f5; /* 网页背景颜色 */
+    text-align: center;      /* 让所有文字居中 */
+    font-family: Arial, sans-serif; /* 设置字体 */
+}
+
+h1 {
+    color: blue;       /* 标题颜色 */
+    font-size: 36px;   /* 标题大小 */
+}
+
+p {
+    color: green;      /* 文字颜色 */
+    font-size: 20px;   /* 文字大小 */
+}
