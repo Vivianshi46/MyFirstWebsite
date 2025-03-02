@@ -54,7 +54,30 @@ p {
     color: #555;
     padding: 5px 0;
 }
+.skills {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
+.skills h2 {
+    font-size: 24px;
+    color: #4CAF50;
+}
+
+.skills ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+.skills li {
+    font-size: 18px;
+    color: #555;
+    padding: 5px 0;
+}
 nav {
     background-color: #333;
     padding: 10px;
